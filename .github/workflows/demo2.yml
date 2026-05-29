@@ -1,7 +1,7 @@
 name: hello-word
 'on': push
-jobs: null
-my-job: null
+jobs: 
+my-job: 
 runs-on: ubuntu-latest
 steps:
   - name: my-step
